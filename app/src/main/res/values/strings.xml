@@ -20,4 +20,10 @@
   se não houver distância específica de quilômetro do local primário [CHAR LIMIT=30] -->
     <string name="near_the">Perto de</string>
 
+    <!-- Texto para mostrar na lista quando não houver terremotos [CHAR LIMIT=NONE] -->
+    <string name="no_earthquakes">Nenhum terremoto encontrado.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">Sem conexão com a internet.</string>
+
 </resources>
